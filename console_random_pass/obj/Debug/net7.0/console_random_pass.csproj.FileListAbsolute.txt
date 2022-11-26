@@ -1,0 +1,15 @@
+C:\Users\kylel\OneDrive\Desktop\Repos\console_random_pass\console_random_pass\bin\Debug\net7.0\console_random_pass.exe
+C:\Users\kylel\OneDrive\Desktop\Repos\console_random_pass\console_random_pass\bin\Debug\net7.0\console_random_pass.deps.json
+C:\Users\kylel\OneDrive\Desktop\Repos\console_random_pass\console_random_pass\bin\Debug\net7.0\console_random_pass.runtimeconfig.json
+C:\Users\kylel\OneDrive\Desktop\Repos\console_random_pass\console_random_pass\bin\Debug\net7.0\console_random_pass.dll
+C:\Users\kylel\OneDrive\Desktop\Repos\console_random_pass\console_random_pass\bin\Debug\net7.0\console_random_pass.pdb
+C:\Users\kylel\OneDrive\Desktop\Repos\console_random_pass\console_random_pass\obj\Debug\net7.0\console_random_pass.csproj.AssemblyReference.cache
+C:\Users\kylel\OneDrive\Desktop\Repos\console_random_pass\console_random_pass\obj\Debug\net7.0\console_random_pass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kylel\OneDrive\Desktop\Repos\console_random_pass\console_random_pass\obj\Debug\net7.0\console_random_pass.AssemblyInfoInputs.cache
+C:\Users\kylel\OneDrive\Desktop\Repos\console_random_pass\console_random_pass\obj\Debug\net7.0\console_random_pass.AssemblyInfo.cs
+C:\Users\kylel\OneDrive\Desktop\Repos\console_random_pass\console_random_pass\obj\Debug\net7.0\console_random_pass.csproj.CoreCompileInputs.cache
+C:\Users\kylel\OneDrive\Desktop\Repos\console_random_pass\console_random_pass\obj\Debug\net7.0\console_random_pass.dll
+C:\Users\kylel\OneDrive\Desktop\Repos\console_random_pass\console_random_pass\obj\Debug\net7.0\refint\console_random_pass.dll
+C:\Users\kylel\OneDrive\Desktop\Repos\console_random_pass\console_random_pass\obj\Debug\net7.0\console_random_pass.pdb
+C:\Users\kylel\OneDrive\Desktop\Repos\console_random_pass\console_random_pass\obj\Debug\net7.0\console_random_pass.genruntimeconfig.cache
+C:\Users\kylel\OneDrive\Desktop\Repos\console_random_pass\console_random_pass\obj\Debug\net7.0\ref\console_random_pass.dll
